@@ -13,16 +13,17 @@ print("My roll no is:", roll_no)
 print("My phone no is:", phone_no)
 
 # Task 2
-print("multiple of 2 is 1 :", 2*1)
-print("multiple of 2 is 2 :", 2*2)
-print("multiple of 2 is 3 :", 2*3)
-print("multiple of 2 is 4 :", 2*4)
-print("multiple of 2 is 5 :", 2*5)
-print("multiple of 2 is 6 :", 2*6)
-print("multiple of 2 is 7 :", 2*7)
-print("multiple of 2 is 8 :", 2*8)
-print("multiple of 2 is 9 :", 2*9)
-print("multiple of 2 is 10 :", 2*10)
+n = int(input("Enter your no for multiples"))
 
+print("multiple of n is 1 :", n * 1)
+print("multiple of n is 2 :", n * 2)
+print("multiple of n is 3 :", n * 3)
+print("multiple of n is 4 :", n * 4)
+print("multiple of n is 5 :", n * 5)
+print("multiple of n is 6 :", n * 6)
+print("multiple of n is 7 :", n * 7)
+print("multiple of n is 8 :", n * 8)
+print("multiple of n is 9 :", n * 9)
+print("multiple of n is 10 :", n * 10)
 
 
