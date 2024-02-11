@@ -5,5 +5,4 @@
 # \f -> Form feed
 
 
-
 print("a\nb")
