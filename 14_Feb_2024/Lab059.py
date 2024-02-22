@@ -5,5 +5,6 @@ def make_pizza_with_base(*topings):
         print(Toping)
 
 
-Jordan =make_pizza_with_base("mushrooms","onions","paneers")
-print(Jordan)
+make_pizza_with_base("mushrooms", "onions", "paneers")
+
+
