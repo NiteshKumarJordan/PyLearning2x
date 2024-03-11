@@ -18,14 +18,7 @@ class Password:
             print("password must be at least 10 characters long")
 
 
-
-
-pwd = Password("Jordan365")
+pwd = Password("123")
 print(pwd.public_var)
 pwd.get_password(False)
 pwd.set_password("Jordan32102")
-
-
-
-
-
