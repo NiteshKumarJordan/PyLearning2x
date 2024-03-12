@@ -1,0 +1,5 @@
+How to get help in Windows
+Here are a few different ways to find help for Windows
+Search for help - Enter a question or keywords in the search box on the taskbar to find apps,
+files, settings, and get help from the web.
+jsondumps
